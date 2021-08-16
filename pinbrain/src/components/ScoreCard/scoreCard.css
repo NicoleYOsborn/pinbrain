@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+.scoreCardSection {
+    width: 1050px;
+    
+}
+
+table {
+    border-collapse: collapse;
+
+}
+
+/* .scoreCard {
+    max-width: 1050px;
+} */
+
+
+
+th, td {
+    background: #FFFFFF;
+    border: 1px solid #B9B9B9;
+    box-sizing: border-box;
+    border-radius: 2px;
+    height: 59.01px;
+    margin: 0;
+    padding: 0;
+}
+
+input {
+    border: none;
+    background-color: #F9D99F;
+    width: 46px;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 24px;
+    text-align: center;
+}
+
+.scoreInputs td{
+    background-color: #F9D99F;
+    width: 50px;
+}
+
+.frametotals {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 24px;
+    text-align: center;
+}
