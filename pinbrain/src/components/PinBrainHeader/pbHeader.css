@@ -3,7 +3,7 @@
 .pbHeader {
     display: flex;
     align-items: center;
-    padding: 15px;
+    padding: 0 15px;
 }
 
 h1 {
@@ -14,4 +14,5 @@ h1 {
     line-height: 112px;
     color: #4C5967;
     padding-left: 30px;
+    margin: 40px 0;
 }

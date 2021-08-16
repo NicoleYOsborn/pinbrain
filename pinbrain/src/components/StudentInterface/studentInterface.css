@@ -1,0 +1,14 @@
+
+.middleSection {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px;
+    width: 1050px;
+}
+
+.interfaceContainer {
+    background-color: #F3B33F;
+    height: 100vh;
+    width: 100vw;
+}
