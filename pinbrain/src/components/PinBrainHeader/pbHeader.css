@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&display=swap');
+
+.pbHeader {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+}
+
+h1 {
+    font-family: 'Bubblegum Sans', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 96px;
+    line-height: 112px;
+    color: #4C5967;
+    padding-left: 30px;
+}
